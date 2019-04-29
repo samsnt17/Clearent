@@ -1,0 +1,6 @@
+C:\Users\samsn\source\repos\Master Folder - Clearent\CreditCardEngine\CreditCardEngine\bin\Debug\CreditCardEngine.dll
+C:\Users\samsn\source\repos\Master Folder - Clearent\CreditCardEngine\CreditCardEngine\bin\Debug\CreditCardEngine.pdb
+C:\Users\samsn\source\repos\Master Folder - Clearent\CreditCardEngine\CreditCardEngine\obj\Debug\CreditCardEngine.csprojAssemblyReference.cache
+C:\Users\samsn\source\repos\Master Folder - Clearent\CreditCardEngine\CreditCardEngine\obj\Debug\CreditCardEngine.csproj.CoreCompileInputs.cache
+C:\Users\samsn\source\repos\Master Folder - Clearent\CreditCardEngine\CreditCardEngine\obj\Debug\CreditCardEngine.dll
+C:\Users\samsn\source\repos\Master Folder - Clearent\CreditCardEngine\CreditCardEngine\obj\Debug\CreditCardEngine.pdb
